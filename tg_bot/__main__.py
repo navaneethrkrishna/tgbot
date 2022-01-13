@@ -29,7 +29,7 @@ PM_START_TEXT = """
 
 കൂടെ താഴെ കൊടുത്തിരിക്കുന്ന ടെക് ഗെയിമിംഗ് യൂട്യൂബ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യാനും മറക്കേണ്ട.
 
-ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.
+ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help kick for know more commands.
 
 """
 
@@ -42,7 +42,7 @@ the things I can help you with.
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
  - /donate: information about how to donate!
- - /settings:
+ - /settings: to set your group settings
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
 {}
